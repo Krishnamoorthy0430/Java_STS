@@ -1,0 +1,17 @@
+import java.util.Scanner;
+import java.util.Date;
+import java.text.SimpleDateFormat;
+import java.text.ParseException;
+
+public class College {
+	private String name;
+	private String website;
+	private String mobile;
+	private String founder;
+	private String location;
+	private int nod;
+	
+	College() {}	
+	
+	
+}

@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class App {
+
+	public static void main(String[] args) {
+		
+		College clg1;
+		System.out.println("Enter College Details in the order : \n"
+				+ "name\n"+"website\nmobile\nfounder\nnud\nlocation");
+		Scanner sc = new Scanner(System.in);
+		clg1.name = clg1.setName();
+		System.out.println(clg1.getName());
+		
+		
+
+	}
+
+}
